@@ -1,6 +1,6 @@
 # Tours
 
-[Live Site](https://www.tours.andrejarboe.com)
+[View Live Site](https://www.tours.andrejarboe.com)
 
 This is a simple React application that displays a list of tours and allows the user to remove tours that they are not interested in. The tours are fetched from an API and displayed using the `Tours` and `Tour` components.
 
